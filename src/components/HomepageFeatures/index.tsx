@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_features_overview.svg').default,
     description: (
       <>
         Better Cloud Applications products are designed from the ground up to be
@@ -21,12 +21,12 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_dev_focus.svg').default,
     description: <>Work smarter.</>,
   },
   {
     title: 'Focused on User Experience',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_visionary_technology.svg').default,
     description: (
       <>We are dedicated to improve User Experience for our customers</>
     ),
