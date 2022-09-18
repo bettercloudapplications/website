@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Better Cloud Applications',
   tagline: 'Upscale your Salesforce experience',
-  url: 'https://bettercloudapplications.github.io/website/',
+  url: 'https://bettercloudapplications.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
