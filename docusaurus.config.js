@@ -69,8 +69,8 @@ const config = {
           //   position: 'left',
           //   label: 'Docs',
           // },
-          { to: '/about', label: 'About' },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          // { to: '/about', label: 'About' },
+          // { to: '/blog', label: 'Blog', position: 'left' },
           {
             type: 'dropdown',
             label: 'Help',
