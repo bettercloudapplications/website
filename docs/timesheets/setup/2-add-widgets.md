@@ -1,4 +1,4 @@
-# Adding Widgets
+# Adding and Configuring Widgets
 
 :::tip
 Our widgets are designed to be added to any Lightning App or Page
