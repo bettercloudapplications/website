@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Better Cloud Applications',
   tagline: 'Upscale your Salesforce experience',
-  url: 'https://bettercloudapplications.com',
+  url: 'http://bettercloudapplications.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -69,7 +69,7 @@ const config = {
           //   position: 'left',
           //   label: 'Docs',
           // },
-          // { to: '/about', label: 'About' },
+          { to: '/about', label: 'About' },
           // { to: '/blog', label: 'Blog', position: 'left' },
           {
             type: 'dropdown',
@@ -125,7 +125,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `☁️ Better Cloud Applications`,
+        copyright: `☁️ Better Cloud Applications - ${new Date().getFullYear()}`,
       },
       prism: {
         theme: lightCodeTheme,

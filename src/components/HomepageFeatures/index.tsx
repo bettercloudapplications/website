@@ -28,7 +28,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Focused on User Experience',
     Svg: require('@site/static/img/undraw_visionary_technology.svg').default,
     description: (
-      <>We are dedicated to improve User Experience for our customers</>
+      <>We are dedicated to improve User Experience for our customers.</>
     ),
   },
 ];
