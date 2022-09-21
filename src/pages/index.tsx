@@ -30,7 +30,7 @@ export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`Home`}
+      title={`Better Solutions For Salesforce`}
       description="Better Cloud Applications - for Salesforce"
     >
       <HomepageHeader />
