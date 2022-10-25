@@ -60,7 +60,7 @@ const config = {
         title: 'Better Cloud Applications',
         logo: {
           alt: 'Better Cloud Applications',
-          src: 'img/logo-tmp.svg',
+          src: 'img/logo.svg',
         },
         items: [
           // {
